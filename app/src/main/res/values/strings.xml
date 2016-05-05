@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LastApp</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="temperature">temperature</string>
+    <string name="condition">condition</string>
+    <string name="location">location</string>
+</resources>
